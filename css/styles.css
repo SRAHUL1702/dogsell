@@ -1,0 +1,88 @@
+#title{
+  background-color: #ff4C68;
+
+}
+h1{
+  font-family:"montserrat-black";
+  line-height: 1.5;
+  font-style: bold;
+  color: white;
+  padding-top: 3rem;
+
+}
+.title-image{
+
+max-width:60%;
+margin-top: 2rem;
+margin-right: 0rem;
+margin-bottom: 5rem;
+margin-left: 0rem;
+}
+#divc{
+  padding: 2% 6% 2%;
+}
+#bbtn{
+   padding: 10px 2rem 10px;
+  margin-left: 0rem;
+  margin-top: 2rem;
+}
+
+#div-part2{
+  padding: 2% 10% 2%;
+  background-color: #fff;
+  margin-left: 2rem;
+  text-align: center;
+  color: #ff4C68;
+  margin-top: 2rem;
+  margin: 2rem;
+}
+.testimonial-image{
+  border-radius: 50%;
+  image-resolution: 10*10;
+  width: 10%;
+  height: auto;
+  border: 1px solid #fff;
+
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#testimonials{
+background-color: #ff4C68;
+padding: 2rem 9rem 4rem;
+text-align: center;
+align-items: center;
+  }
+  /*h2{
+    color: #fff;
+    padding:0px;
+  }*/
+#press{
+text-align: center;
+background-color: #ff4C68;
+padding: 20px 20px 50px;
+}
+#pricing{
+  padding: 100px
+}
+.pricing-coloumn{
+  padding: 3% 2%;
+  text-align: center;
+}
+#cta{
+  background-color: #ff4C68;
+  color:#fff;
+  padding: 7% 15%;
+  text-align: center;
+
+}
+.cta-heading{
+  font-family:"monospace-black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+footer{
+  padding: 7% 15%;
+
+}
